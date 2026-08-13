@@ -1,0 +1,2 @@
+rootProject.name = "GoldWinPrintBridge"
+include ':app'
