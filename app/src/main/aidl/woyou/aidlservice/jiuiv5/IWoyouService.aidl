@@ -77,7 +77,7 @@ interface IWoyouService {
 
     void setFontWeight(boolean fontweight, ICallback callback);
 
-    void printTable(in String[][] jsonData, ICallback callback);
+    void printTable(in String[] jsonData, ICallback callback);
 
     void feedPaper(ICallback callback);
 
