@@ -2,6 +2,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.goldwin.printbridge">
 
+    <queries>
+        <package android:name="woyou.aidlservice.jiuiv5" />
+    </queries>
+
     <application
         android:allowBackup="true"
         android:icon="@android:drawable/ic_menu_send"
