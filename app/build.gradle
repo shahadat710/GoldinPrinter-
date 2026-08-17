@@ -29,4 +29,5 @@ android {
 }
 
 dependencies {
+    implementation files('libs/telpo_api.jar')
 }
